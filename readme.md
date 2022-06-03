@@ -18,7 +18,7 @@ A ideia surgiu da vontade de trabalhar com o objeto Date do JavaScript e criar l
 
 ---
 
-Basicamente o projeto serve para sabermos a data e hora atual, atualizanda a cada segundo por conseguinte bem precisa.
+Basicamente o projeto serve para sabermos a data e hora atual, atualizada a cada segundo por conseguinte bem precisa.
 A nova data  do dia é aparecerá exatamente às 00:01. 
 
 <h3 align="center"> Desenvolvido por Leonardo Developer FrontEnd </h3>
