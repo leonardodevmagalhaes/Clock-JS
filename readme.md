@@ -1,5 +1,7 @@
 <h1 align="center" > <img width="50" src="./icon/icon.png" alt=""> Clock JS </h1>
 
+<h2 align="center" > <img width="70%" src="./icon/gif.gif" alt=""></h2>
+
 ## 🚩 Sobre:
 
 Clock JS é mais um projeto frontend criado para consolidar meus conhecimentos.
